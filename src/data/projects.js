@@ -44,8 +44,6 @@ export const projects = [
   {
     title: "Portfolio v1",
     description: "Built using ReactJS, ThreeJS, CSS3 and lots of ❤️ love.",
-    image:
-      "https://raw.githubusercontent.com/teshank2137/portfolio/v1/src/assets/images/port.JPG",
-    link: "https://www.v1.teshank.dev/",
+    github: "https://github.com/satya035/myPortfolio",
   },
 ];
