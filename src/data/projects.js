@@ -13,6 +13,31 @@ export const projects = [
     description:
       "Backend-as-a-service for creating forms with unique URLs and email notifications.",
   },
+
+  {
+    title: "Phishing Detection",
+    // image: sendfrom,
+    github: "https://github.com/satya035/PhishingDetection",
+    description:
+      "Build various macine learning models for webiste phishing detection based on any website url.",
+  },
+
+  {
+    title: "Phishing Detection",
+    // image: sendfrom,
+    github: "https://github.com/satya035/PhishingDetection",
+    description:
+      "Build various macine learning models for webiste phishing detection based on any website url.",
+  },
+
+  {
+    title: "Authentication",
+    // image: sendfrom,
+    github: "https://github.com/satya035/jwt_auth",
+    description:
+      "Built singup and sign in authentication using jwt authentication.",
+  },
+
   {
     title: "Contact Manager",
     github: "https://github.com/satya035/Contacts-Manager-Backend",
@@ -38,14 +63,28 @@ export const projects = [
     description:
       "Created a machine learning models to predict Intrusion.",
     // image: stonks,
-    github: "https://github.com/satya035/IntrusionDetectionSystem_ML",
+    github: "https://github.com/satya035/IntrusionDetection/tree/main/IDS",
   },
   
   {
-    title: "Portfolio v1",
+    title: "Wound classification",
+    description:
+      "Created a CNN model on wound classification calssifying 7 types of wounds.",
+    // image: stonks,
+    github: "https://github.com/satya035/wound_classification",
+  },
+
+  {
+    title: "Sign-Language-Recognizer",
+    description:
+      "Created a LSTM model for recognizing the sign language.",
+    // image: stonks,
+    github: "https://github.com/satya035/Sign-Language-Recognizer",
+  },
+
+  {
+    title: "Portfolio",
     description: "Built using ReactJS, ThreeJS, CSS3 and lots of ❤️ love.",
-    image:
-      "https://raw.githubusercontent.com/teshank2137/portfolio/v1/src/assets/images/port.JPG",
-    link: "https://www.v1.teshank.dev/",
+    github: "https://github.com/satya035/myPortfolio",
   },
 ];

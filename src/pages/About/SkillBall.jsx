@@ -16,6 +16,7 @@ const Skills = () => {
     "Python",
     "JavaScript",
     "C/C++",
+    "Golang",
     "SQL",
     "HTML",
     "CSS",
@@ -27,14 +28,18 @@ const Skills = () => {
     "Jenkins",
     "NodeJs",
     "ExpressJS",
-    "ThreeJs",
     "Machine learning",
     "Deep learning",
     "Git/Github",
     "Postman",
     "Vercel",
     "Render",
-    "PostgreSQL"
+    "MYSQL",
+    "Amazon AWS",
+    "Ansible",
+    "Terraform",
+    "Jenkins"
+
   ];
   const g = useRef();
   useFrame(() => {

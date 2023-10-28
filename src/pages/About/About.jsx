@@ -70,7 +70,7 @@ export const About = () => {
               color={green}
               data={{
                 title: "Narayana Junior college, Hyderabad",
-                p: "High School (2017-2019)",
+                p: "High School (2017-2019)" ,
                 image: sos,
               }}
             />
