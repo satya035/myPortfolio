@@ -23,14 +23,6 @@ export const projects = [
   },
 
   {
-    title: "Phishing Detection",
-    // image: sendfrom,
-    github: "https://github.com/satya035/PhishingDetection",
-    description:
-      "Build various macine learning models for webiste phishing detection based on any website url.",
-  },
-
-  {
     title: "Authentication",
     // image: sendfrom,
     github: "https://github.com/satya035/jwt_auth",
